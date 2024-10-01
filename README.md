@@ -1,6 +1,6 @@
 # OFDConverter
 
-OFDConverter 是一个简易的PDF转换为OFD格式文档，用于将PDF文件转换为OFD（Open Fixed-layout Document）格式。OFD是一种开放的版式文档格式，在中国广泛使用，特别是在政府和企业文档管理中。
+OFDConverter 是一个简易的PDF转换为OFD格式文档,转换效率高，用于将PDF文件转换为OFD（Open Fixed-layout Document）格式。OFD是一种开放的版式文档格式，在中国广泛使用，特别是在政府和企业文档管理中。
 
 ## 功能特点
 
